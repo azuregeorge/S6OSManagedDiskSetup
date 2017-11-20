@@ -15,3 +15,5 @@ Use the following in a powershell prompt
 To run from a command prompt:
 
 powershell -f deploy.ps1 -subscriptionId [SubscriptionId] -resourceGroupName [ResourceGroupName]
+
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
