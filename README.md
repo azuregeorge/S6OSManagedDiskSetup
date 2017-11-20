@@ -1,4 +1,4 @@
-# S6OSManagedDiskSetup
+# Standard Managed disk S6 VM setup with Standard S2 SQL Database
 
 Deploys a Single 2016 Datacentre VM with a 64GB managed OS disk
 - Standard LRS Storage
